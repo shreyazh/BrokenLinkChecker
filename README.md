@@ -60,7 +60,7 @@ Can be compiled to a **standalone Windows application** via PyInstaller.
 ```bash
 pip install playwright requests beautifulsoup4
 python -m playwright install chromium
-python -m PyInstaller --onefile --noconsole
+python -m pip install pyinstaller
 ```
 
 ### 2. Running
