@@ -1,4 +1,4 @@
-# Broken Link Checker \n[GUI + JS Rendering + Multithreading]
+# Broken Link Checker [GUI + JS Rendering + Multithreading]
 
 A powerful, modern Broken Link Checker desktop application built with **Python**, featuring:
 
